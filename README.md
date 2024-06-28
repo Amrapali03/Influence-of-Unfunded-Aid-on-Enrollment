@@ -9,7 +9,7 @@ The Unfunded Aid Project is an analytical study conducted to understand the impa
 The project is based on the hypothesis that applicants who receive an unfunded aid offer when they receive their letter of admission are more likely to accept and enroll.
 
 ## Key Findings
-
+Document: https://github.com/Amrapali03/Influence-of-Unfunded-Aid-on-Enrollment/blob/main/Unfunded%20Aid%20Project.pdf
 ### Impact by Citizenship:
 
 Permanent Residents are more likely to enroll even without aid.
